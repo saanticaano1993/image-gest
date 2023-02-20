@@ -58,20 +58,20 @@ Se opta por implementar una RestFull-Api desarrollada en Typescript por su robus
 
 Se utilizan las siguientes tecnologías :
 
-# Express - Se utliza como Web Application framework para manejar solicitudes http y routing
-# JSON Web Token - Se utiliza para la autenticación y el control de sesión
-# MongoDB - Se utiliza como BBDD no sql por su rapidez y flexibilidad 
-# Testing - Se utiliza Jest y  Supertest para el testing del Api-Rest
+* Express - Se utliza como Web Application framework para manejar solicitudes http y routing
+* JSON Web Token - Se utiliza para la autenticación y el control de sesión
+* MongoDB - Se utiliza como BBDD no sql por su rapidez y flexibilidad 
+* Testing - Se utiliza Jest y  Supertest para el testing del Api-Rest
 
 FrontEnd:
 
 Se utilizan las siguientes tecnologías :
 
-# React Js - Se utiliza React Js para contruir el FrontEnd por su flexibilidad, capacidad de reutilización de componentes y su dinamismo que mejora 
+* React Js - Se utiliza React Js para contruir el FrontEnd por su flexibilidad, capacidad de reutilización de componentes y su dinamismo que mejora 
 notablemente la experiencia de usuario gracias a su optimización que aplica la filosfía SOLID.
-# React Query - Se utiliza para obtener y alamacenar datos en cache y para almacenar los state de la app
-# Axios - Se utiliza junto con React Query para realizar la comunicación con el server 
-# Testing - Se utiliza Cypress para implementar el testing del front-end
+* React Query - Se utiliza para obtener y alamacenar datos en cache y para almacenar los state de la app
+* Axios - Se utiliza junto con React Query para realizar la comunicación con el server 
+* Testing - Se utiliza Cypress para implementar el testing del front-end
 
 
  
