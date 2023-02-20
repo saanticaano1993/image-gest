@@ -27,25 +27,26 @@ c-Perfil(podrá actualizar su información de usuario(username y contraseña) y 
 
 a)Running app
 
-Paso 1: Realizar un git clone del repositorio del proyecto.
-Paso 2: Abrir 4 terminales 
-Paso 3: En la primera Situarse en el directorio del proyecto
-Paso 4: En la priera Situarse en el directorio  Backend
-Paso 5 : En la primera Ejecutar el siguiente comando npm install
-Paso 6: En la primera Ejecutar el siguiente comando npm run dev 
-Paso 7: En la segunda Situarse en el directorio frontend
-Paso 8 : En la segunda Ejecutar el siguiente comando npm install
-Paso 9:  En la segunda Ejecutar el siguiente comando npm run dev 
-Paso 10 : Abrir un navegdor y entrar en la dirección que nos aparece en la segunda consola
+* Paso 1: Realizar un git clone del repositorio del proyecto.
+* Paso 2: Abrir 4 terminales 
+* Paso 3: En la primera Situarse en el directorio del proyecto
+* Paso 4: En la priera Situarse en el directorio  Backend
+* Paso 5 : En la primera Ejecutar el siguiente comando npm install
+* Paso 6: En la primera Ejecutar el siguiente comando npm run dev 
+* Paso 7: En la segunda Situarse en el directorio frontend
+* Paso 8 : En la segunda Ejecutar el siguiente comando npm install
+* Paso 9:  En la segunda Ejecutar el siguiente comando npm run dev 
+* Paso 10 : Abrir un navegdor y entrar en la dirección que nos aparece en la segunda consola
 
 
 a)Testing app
-Paso 1: En la tercera terminal situarse en el directorio Backend 
-Paso 2 : Ejecutar el comando npm run test 
-Paso 3 : Con las terminales 1 y 2 abiertas situarse con la cuarta terminal en el directorio frontend
-Paso 4 ; ejecutar en la cuarta terminal el comando npm run test:terminal
-Paso 5 : Modificar el fichero /frontend/src/pages/__tests__/Register.cy.ts cambiando el username y el email aumentando en 1 la numerología final.
-Ejemplo TestNew14 por TestNew15 y test-profle14@test.com por test-profle15@test.com
+
+* Paso 1: En la tercera terminal situarse en el directorio Backend 
+* Paso 2 : Ejecutar el comando npm run test 
+* Paso 3 : Con las terminales 1 y 2 abiertas situarse con la cuarta terminal en el directorio frontend
+* Paso 4 ; ejecutar en la cuarta terminal el comando npm run test:terminal
+* Paso 5 : Modificar el fichero /frontend/src/pages/__tests__/Register.cy.ts cambiando el username y el email aumentando en 1 la numerología final.
+           Ejemplo TestNew14 por TestNew15 y test-profle14@test.com por test-profle15@test.com
 
 
 
