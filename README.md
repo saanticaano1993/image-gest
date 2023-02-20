@@ -18,9 +18,9 @@ Se implementa la funcionalidad para ordenar los resultados por : tamaño y fecha
 
 En la parte superior se encuentra la barra de navegación fija desde la que se acceden a las siguientes secciones:
 
-a-Dashboard 
-b-Subir imagen(acceso al formulario de subida de imagenes)
-c-Perfil(podrá actualizar su información de usuario(username y contraseña) y realizar el Logout.
+* a-Dashboard 
+* b-Subir imagen(acceso al formulario de subida de imagenes)
+* c-Perfil(podrá actualizar su información de usuario(username y contraseña) y realizar el Logout.
 
 
 2-Guía de instalación y testing 
